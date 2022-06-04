@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🌱 I’m currently learning Digital Humanities at University of Pisa
+
 🔭 I’m currently working on a secret project 🤫
+
 📫 How to reach me: my LinkedIn profile: https://www.linkedin.com/in/vincenzo-sammartino-0339191a1/
 
 
