@@ -4,7 +4,13 @@
 
 🔭 I’m currently working on a secret project 🤫
 
-📫 You can reach me on my LinkedIn profile: https://www.linkedin.com/in/vincenzo-sammartino-0339191a1/
+📫 You can reach me:
+
+- on my LinkedIn profile: https://www.linkedin.com/in/vincenzo-sammartino-0339191a1
+
+- on my Facebook profile: https://www.facebook.com/VincetHD
+
+- on my Instagram profile: https://www.instagram.com/il_samaritano
 
 
 <!--
