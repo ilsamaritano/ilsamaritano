@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently studying Digital Humanities (Bachelor Degree) at University of Pisa
+🌱 I’m currently studying <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b>
 
 🔭 I’m currently working on a secret project 🤫
 
