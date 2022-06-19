@@ -2,7 +2,7 @@
 
 🌱 I’m currently studying <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b>
 
-🔭 I’m currently working on a secret project 🤫
+🔭 I’m currently working on a <i>secret project</i> 🤫
 
 📫 You can reach me on my:
 
