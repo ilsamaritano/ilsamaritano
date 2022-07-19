@@ -1,6 +1,7 @@
 ### Hi there 👋
+🎓 <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b>
 
-🌱 I’m currently studying <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b>
+🌱 I’m currently studying <b>Digital Humanities</b> (Master's Degree) at <b>University of Pisa</b>
 
 🔭 I’m currently working on a <i>secret project</i> 🤫
 
