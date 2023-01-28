@@ -14,6 +14,8 @@
 - Instagram profile: https://www.instagram.com/il_samaritano
 
 
+![](https://komarev.com/ghpvc/?username=ilsamaritano)
+
 <!--
 **ilsamaritano/ilsamaritano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
