@@ -5,13 +5,8 @@
 
 🔭 I’m currently working on a <i>secret project</i> 🤫
 
-📫 You can reach me on my:
-
-- LinkedIn profile: https://www.linkedin.com/in/vincenzo-sammartino-0339191a1
-
-- Facebook profile: https://www.facebook.com/VincetHD
-
-- Instagram profile: https://www.instagram.com/il_samaritano
+## 🌐 Reach me on Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VincetHD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/il_samaritano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincenzo-sammartino-0339191a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vincenzosamma23) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilsamaritano&show_icons=true&theme=gradient)
@@ -23,6 +18,7 @@ Look at what I hear on Spotify 😄
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fi3w2eprbwdanqw4fcnjumcqnu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fi3w2eprbwdanqw4fcnjumcqnu&redirect=true)
 
+[![](https://visitcount.itsvg.in/api?id=ilsamaritano&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
