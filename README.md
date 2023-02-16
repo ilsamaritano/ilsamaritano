@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+</div>  
+
+
 🎓 <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b>
 
 🌱 I’m currently studying <b>Digital Humanities</b> (Master's Degree) at <b>University of Pisa</b>
