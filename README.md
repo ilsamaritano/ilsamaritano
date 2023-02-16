@@ -8,6 +8,7 @@
 ## 🌐 Reach me on Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VincetHD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/il_samaritano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincenzo-sammartino-0339191a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vincenzosamma23) 
 
+## 📊 My Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilsamaritano&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilsamaritano&layout=compact&langs_count=8&exclude_repo=CodificaDiTesti)](https://github.com/anuraghazra/github-readme-stats)
