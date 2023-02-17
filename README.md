@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 30%; border: 0" />
-</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 270px; border: 0" />
+</div>
+</br>
 
 
 🎓 <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b>
