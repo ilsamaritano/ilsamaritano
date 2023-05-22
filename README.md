@@ -21,7 +21,7 @@
 ## 📊 My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilsamaritano&show_icons=true&theme=gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilsamaritano&layout=compact&langs_count=8&exclude_repo=CodificaDiTesti)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilsamaritano&layout=compact&langs_count=8&exclude_repo=CodificaDiTesti&exclude_repo=linguisticacomputazionale2)](https://github.com/anuraghazra/github-readme-stats)
 <!-- CODIFICA DI TESTI è STATO ESCLUSO CON &exclude_repo=CodificaDiTesti -->
 
 ## 🎧 Look at what I hear on Spotify
