@@ -31,7 +31,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ilsamaritano&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=ilsamaritano&label=Visit+Counter)
+![](https://komarev.com/ghpvc/?username=ilsamaritano&label=Visit+Counter&style=flat-square)
 
 
 <!--
