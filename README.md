@@ -4,9 +4,11 @@
 </ br>
 
 
-🎓 <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b>
+🎓 <b>Digital Humanities</b> (Bachelor Degree) at <b>University of Pisa</b> (29 september 2022)
 
-🌱 I’m currently studying <b>Digital Humanities</b> (Master's Degree) at <b>University of Pisa</b>
+🎓 <b>Digital Humanities</b> (Master's Degree) at <b>University of Pisa</b> (15 febraruary 2024)
+
+🌱 I’m currently working as a research fellow in the <b>Computer Science Department - University of Pisa</b>
 
 🔭 I’m currently working on a <i>secret project</i> 🤫
 
