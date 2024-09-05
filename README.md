@@ -8,6 +8,8 @@
 
 🎓 <b>Digital Humanities</b> (Master's Degree) at <b>University of Pisa</b> (15 febraruary 2024)
 
+🎓 PhD in <b>Artificial Intelligence</b> at <b>University of Pisa</b>
+
 🌱 I’m currently working as a research fellow in the <b>Computer Science Department - University of Pisa</b>
 
 🔭 I’m currently working on a <i>secret project</i> 🤫
