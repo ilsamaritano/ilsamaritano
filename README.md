@@ -28,15 +28,8 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilsamaritano&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!-- CODIFICA DI TESTI è STATO ESCLUSO CON &exclude_repo=CodificaDiTesti -->
 
-## 🎧 Look at what I hear on Spotify
+<!-- ## 🎧 Look at what I hear on Spotify -->
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fi3w2eprbwdanqw4fcnjumcqnu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fi3w2eprbwdanqw4fcnjumcqnu&redirect=true)
-
-[![](https://visitcount.itsvg.in/api?id=ilsamaritano&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
-<!--
-![](https://komarev.com/ghpvc/?username=ilsamaritano&label=Visit+Counter&style=flat-square)
--->
 
 <!--
 ![](https://komarev.com/ghpvc/?username=ilsamaritano)
