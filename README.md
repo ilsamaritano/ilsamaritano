@@ -27,7 +27,7 @@ I actively publish in international journals and conferences on topics ranging f
 
 <div align="center">
 
-<a href="INSERISCI_QUI_IL_TUO_LINK_GOOGLE_SCHOLAR">
+<a href="https://scholar.google.com/citations?user=lQig7SEAAAAJ">
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
 </a>
 <a href="https://orcid.org/0009-0002-4632-1179">
