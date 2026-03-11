@@ -69,9 +69,8 @@ I actively publish in international journals and conferences on topics ranging f
 ### 🌐 Let's Connect
 
 <div align="center">
-  [![Website](https://img.shields.io/badge/Portfolio-ilsamaritano.github.io-00e5ff?style=flat-square&logo=github-pages&logoColor=white)](https://ilsamaritano.github.io)
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincenzo-sammartino-0339191a1)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vincenzosamma23)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincesammartino@gmail.com)
-
 </div>
