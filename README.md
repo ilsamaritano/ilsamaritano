@@ -63,10 +63,25 @@ I actively publish in international journals and conferences on topics ranging f
 
 **2024**
 - 📰 *A Comparative Study of ML Models for Hate Speech Detection in Italian Texts* — **IJCAST** · cited: 6
-- 📰 *Database Decomposition to Satisfy the Least Privilege Principle in Healthcare* — **ARIS2**, vol. 4 · [DOI: 10.56394/aris2.v4i1.43](https://doi.org/10.56394/aris2.v4i1.43) · cited: 2
+- 📰 *Database Decomposition to Satisfy the Least Privilege Principle in Healthcare* — **ARIS2**, vol. 4 · cited: 2
 - 📄 *Anticipating Disasters through a Security Twin* — **Springer Optim. & Its Applications** · cited: 4
 - 📄 *Satisfying Least Privilege Through Database Decomposition* — **DRCN 2024**, Montreal · cited: 1
 - 📄 *Multilevel Database Decomposition Framework* — **ITASEC 2024**, Salerno · cited: 1
+
+---
+
+### 🎓 Thesis Supervision
+
+The following bachelor's and master's theses have been developed under my supervision at the **Università di Pisa — Dipartimento di Informatica**, within the research areas of Security Twins, Digital Twin architectures, and cyber-physical systems security.
+
+| # | Title | Area |
+|:-:|:------|:-----|
+| 1 | *Sviluppo di un Security Twin per l'analisi delle vulnerabilità nei sistemi UAV* | Security Twin · UAV Security · Vulnerability Analysis |
+| 2 | *Zeek e ntopng: confronto e integrazione in NotLine* | Network Monitoring · Digital Twin · NotLine |
+| 3 | *Autenticazione su bus CAN* | Embedded Security · CAN Protocol · Authentication |
+| 4 | *Estensione di un Security Twin con un modello di performance* | Security Twin · Performance Modeling · Quantitative Analysis |
+| 5 | *Confidential Computing: Analisi Costi/Prestazioni* | Confidential Computing · TEE · Systems Security |
+| 6 | *Progettazione e analisi di strategie dinamiche di intrusione attraverso il Security Twin* | Security Twin · Adversarial Modeling · What-If Analysis |
 
 ---
 
