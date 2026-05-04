@@ -55,10 +55,10 @@ I actively publish in international journals and conferences on topics ranging f
 - 📄 Blockchain-Enabled Quantum-Resistant Hybrid Isogeny-Based Signcryption Framework for Digital Twin-Assisted Healthcare — **IEEE Communications Standards Magazine**
 
 **2025**
-- 📄 *AI-enabled Cybersecurity using Synthetic Data* — **IEEE PerCom 2025**, Washington DC · cited: 5
-- 📄 *A Security Twin to Defeat Intrusions in Cyber Physical Systems* — **ESREL SRA-E 2025** · cited: 4
-- 📄 *A Framework for Proactive Cyber-Resilience* — **DS-RT 2025** · cited: 3
-- 📄 *Graph-Based Cyber Defence using a Security Twin* — **DS-RT 2025** · cited: 3
+- 📄 *AI-enabled Cybersecurity using Synthetic Data* — **IEEE PerCom 2025**, Washington DC · cited: 6
+- 📄 *A Security Twin to Defeat Intrusions in Cyber Physical Systems* — **ESREL SRA-E 2025** · cited: 5
+- 📄 *A Framework for Proactive Cyber-Resilience* — **DS-RT 2025** · cited: 4
+- 📄 *Graph-Based Cyber Defence using a Security Twin* — **DS-RT 2025** · cited: 4
 - 📄 *NotLine: A Non-Intrusive Automated Platform to Build a Digital Twin* — **DS-RT 2025** · cited: 1
 - 📄 *A Quantitative Framework for the Validation of Twin-Based Cyber Defense* — **Procedia Computer Science**, vol. 274 · cited: 3
 
