@@ -18,7 +18,7 @@ Currently, I focus on **Security Twins**, **Synthetic Data Generation**, and **P
 - ✈️ **Visiting:** Visiting PhD Student (VSRP) at **KAUST** (Saudi Arabia) - *Jan–Jun 2026* · Project: **ResilientGuard** (UAV Swarm Security · TinyML/Edge AI).
 - 🎓 **Education:** Master's in Digital Humanities (110L) | Bachelor's in Digital Humanities.
 - 💡 **Interests:** Cyber-Physical Systems, NLP, GDPR Compliance, TinyML, Byzantine-resilient Consensus.
-- 📊 **Metrics:** 37 Citations · H-Index 4 · 23 Publications
+- 📊 **Metrics:** 49 Citations · H-Index 4 · 23 Publications
 
 ---
 
@@ -52,6 +52,7 @@ I actively publish in international journals and conferences on topics ranging f
 - 📄 *Evaluating Adversary Strategies Through a Security Twin* — **IEEE PerCom Workshops 2026** · cited: 1
 - 📄 *Quantifying Resilience of CPS to Zero-Day Threats: A DT-Based What-If Analysis* — **ESREL 2026**
 - 📄 *Quantifying the Impact of CVSS Score Ordering on Attack Paths* — **EAI GOODTECHS 2026**
+- 📄 Blockchain-Enabled Quantum-Resistant Hybrid Isogeny-Based Signcryption Framework for Digital Twin-Assisted Healthcare — **IEEE Communications Standards Magazine**
 
 **2025**
 - 📄 *AI-enabled Cybersecurity using Synthetic Data* — **IEEE PerCom 2025**, Washington DC · cited: 5
