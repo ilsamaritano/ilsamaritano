@@ -18,7 +18,7 @@ Currently, I focus on **Security Twins**, **Synthetic Data Generation**, and **P
 - ✈️ **Visiting:** Visiting PhD Student (VSRP) at **KAUST** (Saudi Arabia) - *Jan–Jun 2026* · Project: **ResilientGuard** (UAV Swarm Security · TinyML/Edge AI).
 - 🎓 **Education:** Master's in Digital Humanities (110L) | Bachelor's in Digital Humanities.
 - 💡 **Interests:** Cyber-Physical Systems, NLP, GDPR Compliance, TinyML, Byzantine-resilient Consensus.
-- 📊 **Metrics:** 49 Citations · H-Index 4 · 23 Publications
+- 📊 **Metrics:** 51 Citations · H-Index 4 · 23 Publications
 
 ---
 
@@ -49,13 +49,14 @@ I actively publish in international journals and conferences on topics ranging f
 - 📘 *From Digital Twins to AI Agents: A Synthetic Data Paradigm for Next-Generation Cybersecurity* — **CRC / Taylor & Francis** (Book Chapter)
 - 📰 *Simulation-Powered Cybersecurity: Real-Time Risk Assessment via Non-Intrusive Security Twin* — **The Journal of Supercomputing** (Special Issue)
 - 📰 *Cyber Weapons: Components of Weapon Systems* — **Journal of Information Warfare**, vol. 24(4)
+- 📰 *Hybrid Quantum Graph Neural Networks for Robust Botnet Detection in Modern IoT Ecosystems* — **Future Generation Computer Systems**
 - 📄 *Evaluating Adversary Strategies Through a Security Twin* — **IEEE PerCom Workshops 2026** · cited: 1
 - 📄 *Quantifying Resilience of CPS to Zero-Day Threats: A DT-Based What-If Analysis* — **ESREL 2026**
 - 📄 *Quantifying the Impact of CVSS Score Ordering on Attack Paths* — **EAI GOODTECHS 2026**
 - 📄 Blockchain-Enabled Quantum-Resistant Hybrid Isogeny-Based Signcryption Framework for Digital Twin-Assisted Healthcare — **IEEE Communications Standards Magazine**
 
 **2025**
-- 📄 *AI-enabled Cybersecurity using Synthetic Data* — **IEEE PerCom 2025**, Washington DC · cited: 6
+- 📄 *AI-enabled Cybersecurity using Synthetic Data* — **IEEE PerCom 2025**, Washington DC · cited: 7
 - 📄 *A Security Twin to Defeat Intrusions in Cyber Physical Systems* — **ESREL SRA-E 2025** · cited: 5
 - 📄 *A Framework for Proactive Cyber-Resilience* — **DS-RT 2025** · cited: 4
 - 📄 *Graph-Based Cyber Defence using a Security Twin* — **DS-RT 2025** · cited: 4
@@ -63,7 +64,7 @@ I actively publish in international journals and conferences on topics ranging f
 - 📄 *A Quantitative Framework for the Validation of Twin-Based Cyber Defense* — **Procedia Computer Science**, vol. 274 · cited: 3
 
 **2024**
-- 📰 *A Comparative Study of ML Models for Hate Speech Detection in Italian Texts* — **IJCAST** · cited: 6
+- 📰 *A Comparative Study of Machine Learning Models for Hate Speech and Stereotype Detection in Italian Texts* — **IJCAST** · cited: 7
 - 📰 *Database Decomposition to Satisfy the Least Privilege Principle in Healthcare* — **ARIS2**, vol. 4 · cited: 2
 - 📄 *Anticipating Disasters through a Security Twin* — **Springer Optim. & Its Applications** · cited: 4
 - 📄 *Satisfying Least Privilege Through Database Decomposition* — **DRCN 2024**, Montreal · cited: 1
